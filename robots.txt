@@ -1,0 +1,6 @@
+css/
+files/
+gulpfile.js/
+js/
+scss/
+vendor/
