@@ -1,6 +1,7 @@
-css/
-files/
-gulpfile.js/
-js/
-scss/
-vendor/
+User-agent: *
+Disallow: /css/
+Disallow: /files/
+Disallow: /gulpfile.js/
+Disallow: /js/
+Disallow: /scss/
+Disallow: /vendor/
