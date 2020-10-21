@@ -27,7 +27,7 @@ twitter_username: Sciencentistguy
 github_username: Sciencentistguy
 
 # Build settings
-theme: jekyll-theme-cayman-blog
+theme:
 plugins:
   - jekyll-feed
   - jekyll-katex
