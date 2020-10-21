@@ -10,6 +10,8 @@ source "https://rubygems.org"
 gem "jekyll"
 #gem "jekyll-theme-cayman-blog"
 gem "kramdown-parser-gfm"
+gem "therubyracer"
+gem "execjs"
 #gem "jekyll", "~> 4.1.1"
 # This is the default theme for new Jekyll sites. You may change this to anything you like.
 gem "minima", "~> 2.5"
