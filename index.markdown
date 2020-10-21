@@ -5,12 +5,9 @@
 layout: home
 ---
 
+# About me
+I'm a 3rd year computer science student at the [University of York](https://york.ac.uk). I'll be using this blog to occasionally write about whatever's on my mind, be that programming, my course, or anything else in the world.
 
-# My site 
+I am currently Secretary of [CyberSoc](https://cybersoc.co.uk), the cybersecurity society at the university. We run workshops and talks about security and hacking.
 
-this is a test 
-* bullet 
-* points 
-
-1. numbered
-2. lists
+You might want to take a look at my [github](https://github.com/Sciencentistguy), where I host all of my projects.
