@@ -10,4 +10,4 @@ I'm a 3rd year computer science student at the [University of York](https://york
 
 I am currently Secretary of [CyberSoc](https://cybersoc.co.uk), the cybersecurity society at the university. We run workshops and talks about security and hacking.
 
-You might want to take a look at my [github](https://github.com/Sciencentistguy), where I host all of my projects.
+You might want to take a look at my [github](https://github.com/Sciencentistguy), where I host all of my projects, including this website, which is available under the AGPL.
