@@ -17,4 +17,4 @@ I am a Free Software advocate and enthusiast, and a hobbyist data archivist. I h
 
 # Contact me
 
-If you want to contact me, the best way is probably by email. My address is `<jamie (at) quigley (dot) xyz>`. I am also on [Twitter](https://twitter.com/Sciencentistguy), and matrix (`@jamie@matrix.quigley.xyz`).
+If you want to contact me, the best way is probably by email. My address is `<jamie (at) quigley (dot) xyz>`. I am also on [Twitter](https://twitter.com/Sciencentistguy), and matrix (`@jamie:matrix.quigley.xyz`).
