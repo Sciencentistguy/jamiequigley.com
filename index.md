@@ -13,7 +13,7 @@ I am currently Secretary of [CyberSoc](https://cybersoc.co.uk), the cybersecurit
 
 You might want to take a look at my [github](https://github.com/Sciencentistguy), where I host all of my projects, including this website, which is available under the AGPL.
 
-I am a Free Software advocate and enthusiast, and a hobbyist data archiver. I have a [gitea](https://git.quigley.xyz/explore/repos), where I mirror any Git repos that I have worked on, including those on my github and AUR packages I maintain.
+I am a Free Software advocate and enthusiast, and a hobbyist data archivist. I have a [gitea](https://git.quigley.xyz/explore/repos), where I mirror any git repositories that I have worked on, including those on my github and AUR packages I maintain, as well as other git repositories that I think are worth archiving.
 
 # Contact me
 
