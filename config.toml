@@ -3,5 +3,5 @@ languageCode = 'en-gb'
 title = "Jamie Quigley's Website"
 theme = "terminal"
 
-[Params]
-logo.logoText = "Home"
+[Params.logo]
+logoText = "Home"
