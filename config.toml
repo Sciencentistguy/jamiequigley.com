@@ -1,0 +1,4 @@
+baseURL = 'https://jamiequigley.com/'
+languageCode = 'en-gb'
+title = "Jamie Quigley's Website"
+theme = "terminal"
