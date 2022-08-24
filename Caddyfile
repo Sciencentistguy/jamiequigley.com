@@ -1,0 +1,4 @@
+jamiequigley.com {
+  root * /static
+  file_server
+}

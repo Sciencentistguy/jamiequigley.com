@@ -1,0 +1,11 @@
+version: "3"
+
+services:
+  caddy:
+    image: caddy:2
+    volumes:
+      - "./public:/static:ro"
+      - "./Caddyfile:/etc/caddy/Caddyfile:ro"
+    ports:
+      - "443:443"
+      - "80:80"
