@@ -1,18 +1,16 @@
 ---
 ---
-# Jamie Quigley
+Hi 👋! I'm Jamie, (or Sciencentistguy)
 
-Hi 👋!
+This website is intended to not only serve as a place for me to write and post some of my thoughts (if I ever have any 😅), but as a portfolio website, detailing some of my projects, the process of developing them, and what I learned from them. Stay tuned!
 
-I'm Jamie. I have recently graduated with an MEng in Computer Science from the University of York.
+## About
+I have recently graduated with an MEng in Computer Science from the University of York.
+I'm specifically interested in back-end and systems programming, using Rust and C++, however in general I am ethused by finding performant soltuions to novel problems.
 
-This website is primarily a blog, which I will likely forget to write posts for 😅.
+### Skills
 
-I'm specifically interested in back-end and systems programming, using Rust and C++, however in general I am ethused by finding performant soltuions to noval problems.
-
-## Skills
-
-### Programming
+#### Programming
 
 My primary programming languages are Rust and C++, however I am a proficient programmer in many other languages, including (in alphabetical order):
 
@@ -26,41 +24,41 @@ My primary programming languages are Rust and C++, however I am a proficient pro
 - Python
 - Typescript
 
-### Server administration
+#### Server administration
 
 I am a maintainer of the nixpkgs linux package repository, and use NixOS on all my linux systems (where possible).
 
 I also operate many servers for personal projects, and therefore have experience using many common server-side tools, primarily systemd and docker. I use a combination of systemd units (managed by NixOS) and docker containers to run services on my home server.
 
-### Data management
+#### Data management
 
-I use prometheus, InfluxDB, and Grafana on my home server to aggregate and monitor telemetry from various services I run.
+I use prometheus, InfluxDB, and Grafana on my home Server to aggregate and monitor telemetry from various services I run.
 
 I have also written scrapers to export data from services and insert them into said databases, for visualisation
 
-## Highlighted projects
+### Highlighted projects
 
 All my open-source projects are hosted on my [Github](https://github.com/Sciencentistguy). Here are a few I'm particularly proud of.
 
-### discord-channel-archiver
+#### discord-channel-archiver
 
 [discord-channel-archiver](https://github.com/Sciencentistguy/discord-channel-archiver) is a discord bot that can export the contents of a discord channel and save it into multiple formats.
 
 The highlight of this is the HTML output mode, which produces an HTML file that, when viewed in a browser, looks quite similar to discord's interface.
 
-### rust-nix-shell
+#### rust-nix-shell
 
 [rust-nix-shell](https://github.com/Sciencentistguy/rust-nix-shell) is a nix-based alternative to rustup, for spawning ephemeral nix-shells with a complete rust toolchain, of any specified version (a rust release channel, a named release, or a dated nightly).
 
-### rit
+#### rit
 
 [rit](https://github.com/Sciencentistguy/rit) is a git-compatible version control system, written in Rust. It is loosely based on jit, and the accompanying book [Building Git](https://shop.jcoglan.com/building-git/).
 
-### videoconverter
+#### videoconverter
 
 [videoconverter](https://github.com/Sciencentistguy/videoconverter) is a rust program that analyses the contents of media files, and then remuxes (or reencodes, if chosen) them to a standard container format, dropping unneeded audio and subtitle streams. Originally written to assist with archiving DVDs and Blu-Rays.
 
-## Links
+### Links
 
 - [Github](https://github.com/Sciencentistguy)
 - [Twitter](https://twitter.com/Sciencentistguy)

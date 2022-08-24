@@ -2,7 +2,16 @@ baseURL = 'https://jamiequigley.com/'
 languageCode = 'en-gb'
 title = "Jamie Quigley's Website"
 theme = "terminal"
-sectionPagesMenu = "main"
+# sectionPagesMenu = "main"
 
 [Params.logo]
 logoText = "Home"
+
+[Params]
+favicon = "favicon.png"
+
+# [menu]
+# [[menu.main]]
+# identifier = "posts"
+# name = "Blog"
+# url = "/posts/"
