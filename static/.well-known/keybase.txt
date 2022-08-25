@@ -1,0 +1,82 @@
+==================================================================
+https://keybase.io/sciencentistguy
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://jamiequigley.com
+  * I am sciencentistguy (https://keybase.io/sciencentistguy) on keybase.
+  * I have a public key with fingerprint 30BB FF3F AB0B BB3E 0435  F83C 8E8F F66E 2AE8 D970
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "01012b63a9ea219723901a2b5cf218baaddf60e9ec1e4b4e93afa6adc45327df9fdd0a",
+      "fingerprint": "30bbff3fab0bbb3e0435f83c8e8ff66e2ae8d970",
+      "host": "keybase.io",
+      "key_id": "8e8ff66e2ae8d970",
+      "kid": "0101738eaf81495c686f27a0a067db54bb0fda9d0334f8f386d85b735e602c5cb37e0a",
+      "uid": "bd3f460b039e4c44397791d05b9ad919",
+      "username": "sciencentistguy"
+    },
+    "merkle_root": {
+      "ctime": 1661424064,
+      "hash_meta": "a8f07a2329a10b5aa3a2f000c0120b2c94c852acd28fc0ed6e7eb1d0b3a152d0",
+      "seqno": 23085526
+    },
+    "revoke": {
+      "sig_ids": [
+        "09c0839f72dce8dbe5fb867917a84c4c1548cdd6de9b03a218ca208da7ae10f10f"
+      ]
+    },
+    "service": {
+      "hostname": "jamiequigley.com",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1661424079,
+  "expire_in": 157680000,
+  "prev": "51a0b7a6467fb0b8de09acd6ac9e4b49d24ac26b02b7c5886c3e45c2314382c2",
+  "seqno": 68,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+
+owFtU39oVlUY/laTbcpCC2tJSbtEI1nj3HPuPfecz8x+MDRwf2iQgtbX+fGe7bbv
+u/fbd++WQwY6SxOaFaNirj9HUs1RSpIZooZmDWRuK5VKKEOmhMUgKSHs3KEIEVw4
+95zzvM/7vM/7nrfq78zVVu1+81q0bOZ8uWr8ssypmrVXtjgy1r1OfovTCXMLFDUk
+aaEz1E7eQS5ysaREcBDY5QEmHLkCS18Z7DIphNaGIuCgXPCkB5wII6jQyvMJDrTh
+RmsknGbHhFE7VMqVMEotLUFSGkOMkPZHEkAe8Q0jigEzhlLAApjmAbKBHXGSRVhx
+UiTQEsb2zG4Kc/L+B39bd0AYCMNcj/uKMmpwIJBANNDS96RERguuESGeYYYwqpkv
+A+IDRVj5SpIA5nR3z9FJTYxHkUSEg6c8j/Ag4K5GvuRCc5dnwAQqkSiBRScqhEhB
+lIZJ2t7d6/Q1OyWodBahUInjNPNYpWGGdCl1Pewh6tk6RdJRKEEqLIFgBgUCE8yF
+i6QvBBHYIISUbQaSWHFPMR8LpTEzCoGmEIC0ciQRro91ZkMCXVHs5DFBzPcxtRIq
+0BN3QpY9CdutfcnR7U5+o4O4QoxwE2CtrIkSfCMZtdUFgtlSlet7TGlNNXBbvh0C
+pgRGTItAgIuM/ZwX+rJ8lZ5QzdFnHbvpxMuiFEJXd9hehN4WFZessHIlTmMVF+1t
+R5qWk3xmT9pbzuCvgCzcJCrIMNJ2ZmxED1SSMI6sXRb5H+cC3uzA5nJYgUKYIfyA
+MmsUyvJAj6X0XYFkIKhHA2OHjWlA3BpHheLZwHKNPaEwlQjLQPmMUUXA8xUmrkcY
+Vvi2lZRZnaI962/YHom0uwJO3/xdVaQ6V1Wbe/Dexmp0+MbKjxccfqLa/+vxW+9s
+3h3ZI8vNr1t462RmSW1uKD/W33ZhzaYTp86d2Nt2FnZM7z21+btfRhfftXrHoaZt
+TffETc01brn12OzVCTQxc31436MnR78Y39pwdfWTN+7Lxd9fX/vlr0uODLSsutD7
+d/TwxZbP6zc2jL545kzjq/Vjb69ffqlr3rmnVx7pWfDOin13L5vc4D3z0roPdovn
+PhvyG/ZUfzi79PzA7OXB15OfVzQOVwcPvNb62MHTxzfAQN23k2vG2/75qlAzufOp
+g4u2Xtt//5/Pmz0jud//WP7JI4umguHBK/j00E446r3x7KXpbfvXL/168FhpKv/b
+oQMX60Y2Ta1btXDxT8d/KL534KGJH7f3fzPdzTpK/R91jJxtjSaL0/Gn7ru73h87
++S8=
+=/aXH
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/sciencentistguy
+
+==================================================================
+
