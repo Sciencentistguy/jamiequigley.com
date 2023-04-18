@@ -34,5 +34,6 @@
           cp -a public/* $out/
         '';
       };
+      packages.website = self.packages.${system}.default;
     });
 }
