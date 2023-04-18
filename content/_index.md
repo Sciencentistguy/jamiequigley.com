@@ -1,42 +1,32 @@
 ---
 ---
-Hi 👋! I'm Jamie, (or Sciencentistguy)
+Hi 👋! I'm Jamie (or Sciencentistguy)
 
-This website is intended to not only serve as a place for me to write and post some of my thoughts (if I ever have any 😅), but as a portfolio website, detailing some of my projects, the process of developing them, and what I learned from them. Stay tuned!
+I'm a Rust and C++ systems programmer and general computer enthusiast.
 
-## About
-I have recently graduated with an MEng in Computer Science from the University of York.
-I'm specifically interested in back-end and systems programming, using Rust and C++, however in general I am ethused by finding performant soltuions to novel problems.
+I spend my (non-work) time writing software, working on my collection of self-hosted services, and contributing to a range of open-source projects. I'm also a data archival nerd, and a contributor to the [musicbrainz](https://www.musicbrainz.org/) project.
 
-### Skills
+At work, I write C++, for a distributed real-time cloud service.
 
-#### Programming
+I am a maintainer of the nixpkgs linux package repository, and use NixOS on all my linux systems (even this server!).
 
-My primary programming languages are Rust and C++, however I am a proficient programmer in many other languages, including (in alphabetical order):
+## Contact me
 
-- Bash
-- C
-- Flux (the InfluxDB query language)
-- Haskell
-- Java
-- Kotlin
-- Nix
-- Python
-- Typescript
+If you want to talk tech, have a question about one of my projects, or are just feeling particularly social and want a chat, feel free to reach out!
 
-#### Server administration
+I can often be found lurking on libera.chat IRC, especially in `#musicbrainz`, `#nixos`, and `#haskell`.
 
-I am a maintainer of the nixpkgs linux package repository, and use NixOS on all my linux systems (where possible).
+I've also got discord: `Sciencentistguy#0001`, and of course you can email me at `jamie@quigley.xyz`.
 
-I also operate many servers for personal projects, and therefore have experience using many common server-side tools, primarily systemd and docker. I use a combination of systemd units (managed by NixOS) and docker containers to run services on my home server.
+I'm also on all the usual social media:
 
-#### Data management
+- [Github](https://github.com/Sciencentistguy)
+- [Twitter](https://twitter.com/Sciencentistguy)
+- [Mastodon](https://tech.lgbt/@Sciencentistguy)
 
-I use prometheus, InfluxDB, and Grafana on my home Server to aggregate and monitor telemetry from various services I run.
+## Projects
 
-I have also written scrapers to export data from services and insert them into said databases, for visualisation
-
-### Highlighted projects
+Here are a few of the projects I'm most proud of. Check them out!
 
 All my open-source projects are hosted on my [Github](https://github.com/Sciencentistguy). Here are a few I'm particularly proud of.
 
@@ -44,7 +34,11 @@ All my open-source projects are hosted on my [Github](https://github.com/Science
 
 [discord-channel-archiver](https://github.com/Sciencentistguy/discord-channel-archiver) is a discord bot that can export the contents of a discord channel and save it into multiple formats.
 
-The highlight of this is the HTML output mode, which produces an HTML file that, when viewed in a browser, looks quite similar to discord's interface.
+The highlight of this is the HTML output mode, which produces an HTML file that, when viewed in a browser, looks quite similar to Discord's interface.
+
+#### videoconverter
+
+[videoconverter](https://github.com/Sciencentistguy/videoconverter) is a rust program that analyses the contents of media files, and then remuxes (or reencodes, if chosen) them to a standard container format, dropping unneeded audio and subtitle streams. Originally written to assist with archiving DVDs and Blu-Rays.
 
 #### rust-nix-shell
 
@@ -54,13 +48,3 @@ The highlight of this is the HTML output mode, which produces an HTML file that,
 
 [rit](https://github.com/Sciencentistguy/rit) is a git-compatible version control system, written in Rust. It is loosely based on jit, and the accompanying book [Building Git](https://shop.jcoglan.com/building-git/).
 
-#### videoconverter
-
-[videoconverter](https://github.com/Sciencentistguy/videoconverter) is a rust program that analyses the contents of media files, and then remuxes (or reencodes, if chosen) them to a standard container format, dropping unneeded audio and subtitle streams. Originally written to assist with archiving DVDs and Blu-Rays.
-
-### Links
-
-- [Github](https://github.com/Sciencentistguy)
-- [Twitter](https://twitter.com/Sciencentistguy)
-- [Gitea](https://git.quigley.xyz)
-- [Mastodon](https://tech.lgbt/@Sciencentistguy)
