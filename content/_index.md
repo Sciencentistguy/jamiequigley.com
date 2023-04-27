@@ -20,7 +20,6 @@ I've also got discord: `Sciencentistguy#0001`, and of course you can email me at
 
 I'm also on all the usual social media:
 
-- [Github](https://github.com/Sciencentistguy)
 - [Twitter](https://twitter.com/Sciencentistguy)
 - [Mastodon](https://tech.lgbt/@Sciencentistguy)
 
