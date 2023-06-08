@@ -16,12 +16,13 @@ If you want to talk tech, have a question about one of my projects, or are just 
 
 I can often be found lurking on libera.chat IRC, especially in `#musicbrainz`, `#nixos`, and `#haskell`.
 
-I've also got discord: `Sciencentistguy#0001`, and of course you can email me at `jamie@quigley.xyz`.
+I'm `@sciencentistguy` on discord, and of course you can email me at `jamie@quigley.xyz`.
 
-I'm also on all the usual social media:
+I'm also on the usual social media (although I'm far more active on Twitter than anything else):
 
 - [Twitter](https://twitter.com/Sciencentistguy)
 - [Mastodon](https://tech.lgbt/@Sciencentistguy)
+- [Cohost](https://cohost.org/sciencentistguy)
 
 ## Projects
 
