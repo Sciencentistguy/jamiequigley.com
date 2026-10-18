@@ -7,6 +7,7 @@ It's a [React](https://react.dev/) single-page app built with [Vite](https://vit
 - `npm run dev` — start a dev server
 - `npm run build` — build into `dist/`
 - `nix build` — build into `result/`
+- `npm run deploy` — build and deploy to Cloudflare Workers (run inside `nix develop` for `wrangler`)
 
 ---
 

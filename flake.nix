@@ -15,7 +15,7 @@
     in {
       devShells.default = pkgs.mkShell {
         name = "jamiequigley.com";
-        buildInputs = with pkgs; [nodejs];
+        buildInputs = with pkgs; [nodejs wrangler];
       };
 
       packages.default = pkgs.buildNpmPackage {
