@@ -2,7 +2,11 @@
 
 The source code of my [blog](https://jamiequigley.com).
 
-I'm using [hugo](https://gohugo.io/), using a modified version of the [terminal](https://github.com/panr/hugo-theme-terminal) theme.
+It's a [React](https://react.dev/) single-page app built with [Vite](https://vite.dev/), using [React Router](https://reactrouter.com/) for routing. Pages are written in markdown under `content/` and rendered with [react-markdown](https://github.com/remarkjs/react-markdown). The styling is a port of the [terminal](https://github.com/panr/hugo-theme-terminal) Hugo theme.
+
+- `npm run dev` — start a dev server
+- `npm run build` — build into `dist/`
+- `nix build` — build into `result/` (update `npmDepsHash` in `flake.nix` when dependencies change)
 
 ---
 

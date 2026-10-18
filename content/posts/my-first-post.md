@@ -1,8 +1,6 @@
 ---
-<!-- layout: post -->
 title: "I've got a blog"
-date: 2020-10-21 12:00:00 +0100
-<!-- categories: beginnings -->
+date: 2020-10-21T12:00:00+01:00
 ---
 
 I've got a blog!
