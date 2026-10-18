@@ -23,7 +23,8 @@
 
         src = pkgs.lib.cleanSource ./.;
 
-        npmDepsHash = "sha256-EZAIgilqFHO+HJ/SV4fjirFPxPLEMDGVjIgMSyilw8c=";
+        npmDeps = pkgs.importNpmLock {npmRoot = ./.;};
+        npmConfigHook = pkgs.importNpmLock.npmConfigHook;
 
         installPhase = ''
           mkdir -p $out

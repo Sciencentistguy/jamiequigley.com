@@ -6,7 +6,7 @@ It's a [React](https://react.dev/) single-page app built with [Vite](https://vit
 
 - `npm run dev` — start a dev server
 - `npm run build` — build into `dist/`
-- `nix build` — build into `result/` (update `npmDepsHash` in `flake.nix` when dependencies change)
+- `nix build` — build into `result/`
 
 ---
 
