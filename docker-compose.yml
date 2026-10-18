@@ -4,7 +4,7 @@ services:
   caddy:
     image: caddy:2
     volumes:
-      - "./dist:/static:ro"
+      - "./dist:/srv:ro"
       - "./Caddyfile:/etc/caddy/Caddyfile:ro"
     ports:
       - "443:443"

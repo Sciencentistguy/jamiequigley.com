@@ -7,6 +7,5 @@ jobs:
     docker:
       - image: "nixos/nix"
     steps:
-      - run: nix-channel --update
       - checkout
       - run: nix --extra-experimental-features 'flakes nix-command' build -L .

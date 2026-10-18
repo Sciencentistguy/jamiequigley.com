@@ -35,9 +35,9 @@ const topLevel = load(
   import.meta.glob("/content/*.md", { query: "?raw", import: "default", eager: true }),
 );
 
-export const home: Page = topLevel.find((p) => p.slug === "_index")!;
+export const home: Page = topLevel.find((p) => p.slug === "home")!;
 
-export const pages: Page[] = topLevel.filter((p) => p.slug !== "_index");
+export const pages: Page[] = topLevel.filter((p) => p.slug !== "home");
 
 /** The first paragraph of a page, used as a summary in post lists. */
 export function summary(page: Page): string {

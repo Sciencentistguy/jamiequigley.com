@@ -1,5 +1,3 @@
----
----
 Hi 👋! I'm Jamie (or Sciencentistguy)
 
 I'm a Rust and C++ systems programmer and general computer enthusiast.
