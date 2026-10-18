@@ -46,3 +46,5 @@ All my open-source projects are hosted on my [GitHub](https://github.com/Science
 The highlight of this is the HTML output mode, which produces an HTML file that, when viewed in a browser, looks quite similar to Discord's interface.
 
 This has not been maintained since ~2022, and recent changes to Discord's API mean that this unfortunately no longer functions that well. I am still proud of it though.
+
+---
