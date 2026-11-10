@@ -1,13 +1,14 @@
-Hi 👋! I'm Jamie (sometimes known as Sciencentistguy)
+Hi 👋! I'm Jamie
 
-I'm a queer Rust and C++ systems programmer, photographer, and general computer enthusiast, based in London.
+I'm a queer programmer, photographer, and general computer enthusiast, based in London.
 
 At work, I write high-performance C++ for a distributed real-time cloud service.
 
-Outside of that, I spend my time taking [photos](/photos), writing software, working on my collection of self-hosted services, and contributing to a range of open-source projects. I'm also a data archival nerd, and a contributor to the [musicbrainz](https://www.musicbrainz.org/) project.
+At home, I work on Rust projects, usually in the audio and video coding space, or open-source photo editing. Alongside that, I maintain a collection of self-hosted services and contribute to a wide range of open-source projects. I am also a maintainer of nixpkgs, and use NixOS on the majority of my personal Linux systems. Very occasionally I also write websites.
 
+I like data: I'm an active contributor to musicbrainz, a semi-active Wikipedia editor, and an opportunistic archivist of projects worth preserving.
 
-I am a maintainer of the nixpkgs Linux package repository, and use NixOS on many of my Linux systems.
+Outside of computers, I mainly spend my time taking [photos](/photos) and going to music gigs. 
 
 ## Contact me
 
